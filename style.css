@@ -1,0 +1,109 @@
+	*{
+	margin: 0;
+}
+
+	header{
+	background-image: linear-gradient(to right, LightBlue, royalblue);
+	padding: 25px;
+}
+
+	.head{
+	text-align: left;
+	color: black;
+}
+
+	.head2{
+	background-image: linear-gradient(to right, LightBlue, royalblue);
+	border-top: 1px solid lightblue;
+	border-bottom: 1px solid lightblue;
+	text-align: center;
+	padding: 5px;
+	text-decoration: none;
+}
+
+	body{
+		background-color: lightgray;
+	}
+
+	a{
+	text-decoration:none;
+}
+
+	table{
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 15px;
+  	border-collapse: collapse;
+  	border-color: LightSkyBlue;
+  	background-color: white;
+}
+	td{
+	font-weight: bold;
+
+	}
+
+
+
+	input[type="number"]{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 2px;
+	width: 35px;
+	border-radius: 5px;
+	border: 1px solid royalblue;
+}
+
+	input[type="text"]{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 5px;
+	width: 130px;
+	border-radius: 5px;
+	border: 1px solid royalblue;
+}
+
+	button{
+	border: 0;
+	margin-right: 5px;
+	border-radius: 5px;
+	background-color: royalblue;
+	color:  white;
+	font-weight: bold;
+}
+
+	.sec{
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 15px;
+	width: 50%;
+	text-align: center;
+	background-color: LightBlue;
+	border: 1px solid royalblue;
+
+}
+
+	
+	td{
+		padding: 5px;
+		text-align: center;
+	}
+
+	input[type="submit"]{
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: 30px;
+		width: 250px;
+		padding: 15px;
+		background-color: royalblue;
+		border-radius: 5px;
+		color:  white;
+		font-weight: bold;
+	}
+
+
+
